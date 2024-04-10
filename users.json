@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Isla",
+                "last": "Perala"
+            },
+            "location": {
+                "street": {
+                    "number": 1708,
+                    "name": "Rotuaari"
+                },
+                "city": "Ilmajoki",
+                "state": "Tavastia Proper",
+                "country": "Finland",
+                "postcode": 90017,
+                "coordinates": {
+                    "latitude": "-27.4565",
+                    "longitude": "55.8164"
+                },
+                "timezone": {
+                    "offset": "-3:00",
+                    "description": "Brazil, Buenos Aires, Georgetown"
+                }
+            },
+            "email": "isla.perala@example.com",
+            "login": {
+                "uuid": "6b652b2d-e299-4057-8c33-188838154989",
+                "username": "brownbutterfly550",
+                "password": "chargers",
+                "salt": "lKLawDdV",
+                "md5": "b4a7142e327e9056d23a439031e585b3",
+                "sha1": "12010d87241fd4fe24a0b9e8cd0730efe096bced",
+                "sha256": "7f0b9c32f9cfef61bcd8cefd40594c47fc03316875a4cbf0cead21afa05e9e0e"
+            },
+            "dob": {
+                "date": "1975-04-18T16:27:36.961Z",
+                "age": 48
+            },
+            "registered": {
+                "date": "2013-05-30T17:35:14.455Z",
+                "age": 10
+            },
+            "phone": "06-033-555",
+            "cell": "041-523-08-96",
+            "id": {
+                "name": "HETU",
+                "value": "NaNNA692undefined"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/23.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+            },
+            "nat": "FI"
+        }
+    ],
+    "info": {
+        "seed": "07237fbdbea5569b",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
